@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Veer376
 - 👀 I’m interested in AI & AR
 - 🌱 I’m currently learning Web
-- 💞️ I’m looking to collaborate on GenAI
+- 💞️ I’m looking to collaborate on Agentic AI
 - 📫 Reach me at aryaveer1214@gmail.com
 - ⚡ Fun fact: I enjoy deep diving into tech, just trying not to forget where the surface is.
 
