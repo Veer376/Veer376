@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Veer376
-- 👀 I’m interested in AI & AR
+- 👀 I’m interested in Agentic AI, AGI.
 - 🌱 I’m currently learning Web
 - 💞️ I’m looking to collaborate on Agentic AI
 - 📫 Reach me at aryaveer1214@gmail.com
