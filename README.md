@@ -121,7 +121,8 @@ A lightweight **LangGraph conversational agent** built for a Napa Valley wine bu
 
 </details>
 
-<!---
-Veer376/Veer376 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+--- 
+## Skills
+React.js, Next.js, Node.js, FastAPI, Flask, Supabase, LangGraph, Gemini, Spring boot, MongoDB, Redis, PostgreSQL, Docker, AWS, Google Cloud, Microservices, Kafka, Git.
+
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,mongodb,docker,python,java,spring,fastapi,redis,postgresql,aws,gcp,kafka,git)
