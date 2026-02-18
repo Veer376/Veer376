@@ -7,7 +7,7 @@ _Starting with a bold idea, I methodically untie knotty problems, translate them
 ## Featured Projects
 
 <details open>
-<summary><strong>🤖 <img src="assets/doot-icon.png" alt="Doot Agent" width="20" align="center"/> <a href="https://github.com/Veer376/doot-agent-lab">Doot Agent</a></strong></summary>
+<summary><strong> <img src="assets/doot-icon.png" alt="Doot Agent" width="20" align="center"/> <a href="https://github.com/Veer376/doot-agent-lab">Doot Agent</a></strong></summary>
 
 <table>
 <tr>
