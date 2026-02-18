@@ -7,7 +7,7 @@ _Starting with a bold idea, I methodically untie knotty problems, translate them
 ## Featured Projects
 
 <details open>
-<summary><strong> <img src="assets/doot-icon.png" alt="Doot Agent" width="20" align="center"/> <a href="https://github.com/Veer376/doot-agent-lab">Doot Agent</a></strong></summary>
+<summary><strong> <img src="assets/doot-icon.png" alt="Doot Agent" width="20" align="center"/> <a href="https://github.com/Veer376/doot-agent-lab" style="text-decoration: none;">Doot Agent</a></strong></summary>
 
 <table>
 <tr>
@@ -30,10 +30,8 @@ A sophisticated **agentic orchestration platform** built with LangGraph for auto
 
 </details>
 
----
-
 <details>
-<summary><strong>✏️ <a href="https://github.com/Veer376/Sketch-AI">Sketch AI</a></strong></summary>
+<summary><strong>✏️ <a href="https://github.com/Veer376/Sketch-AI" style="text-decoration: none;">Sketch AI</a></strong></summary>
 
 <table>
 <tr>
@@ -54,10 +52,8 @@ An interactive canvas application combining drawing capabilities with **AI-power
 
 </details>
 
----
-
 <details>
-<summary><strong>🏥 <a href="https://github.com/Veer376/virtual_patient">Virtual Patient Simulator</a></strong></summary>
+<summary><strong>🏥 <a href="https://github.com/Veer376/virtual_patient" style="text-decoration: none;">Virtual Patient Simulator</a></strong></summary>
 
 <table>
 <tr>
@@ -79,10 +75,8 @@ A medical training tool that simulates realistic patient responses using a **fin
 
 </details>
 
----
-
 <details>
-<summary><strong>🛒 <a href="https://github.com/Veer376/smart_shopper">Smart Shopper</a></strong></summary>
+<summary><strong>🛒 <a href="https://github.com/Veer376/smart_shopper" style="text-decoration: none;">Smart Shopper</a></strong></summary>
 
 <table>
 <tr>
@@ -104,10 +98,8 @@ An intelligent **Django REST API** that provides near real-time product search u
 
 </details>
 
----
-
 <details>
-<summary><strong>🍷 <a href="https://github.com/Veer376/conversational_concierge">Conversational Concierge</a></strong></summary>
+<summary><strong>🍷 <a href="https://github.com/Veer376/conversational_concierge" style="text-decoration: none;">Conversational Concierge</a></strong></summary>
 
 <table>
 <tr>
@@ -128,8 +120,6 @@ A lightweight **LangGraph conversational agent** built for a Napa Valley wine bu
 </table>
 
 </details>
-
----
 
 <!---
 Veer376/Veer376 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
