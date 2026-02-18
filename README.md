@@ -1,37 +1,8 @@
-<h2 style="display:flex; gap:12px; line-height:1;">
-  <span style="display:flex; gap:6px;">
-    👋 <span>Hi, I’m <strong>Aryaveer</strong></span>
-  </span>
+# 👋 Hi, I'm Aryaveer
 
-  <span style="opacity:0.6;">|</span>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryaveer-aiml) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/veer1214/)
 
-  <a href="https://www.linkedin.com/in/aryaveer-aiml"
-     style="display:flex; align-items:center; gap:6px; text-decoration:none; color:inherit;">
-    <img src="https://skillicons.dev/icons?i=linkedin"
-         alt="LinkedIn"
-         width="22" height="22" />
-    <span>LinkedIn</span>
-  </a>
-
-  <span style="opacity:0.6;">|</span>
-
-  <a href="https://leetcode.com/u/veer1214/"
-     style="display:flex; align-items:center; gap:6px; text-decoration:none; color:inherit;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg"
-         alt="LeetCode"
-         width="22" height="22"
-         style="filter: invert(58%) sepia(85%) saturate(2275%)
-                hue-rotate(360deg) brightness(101%) contrast(101%);" />
-    <span>LeetCode</span>
-  </a>
-</h2>
-
-<!-- Summary placeholder: replace the text below with your intro -->
-<p style="margin-top:8px; max-width:70ch; line-height:1.4;">
-  Starting with a bold idea, I methodically untie knotty problems, translate them into reliable backend architecture, and present the results through joyful, lightning-fast user experiences.
-</p>
-
-
+_Starting with a bold idea, I methodically untie knotty problems, translate them into reliable backend architecture, and present the results through joyful, lightning-fast user experiences._
 
 ## Featured Projects
 
