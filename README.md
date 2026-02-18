@@ -150,6 +150,50 @@ A **Flutter-based mobile application** that scans food product ingredients using
 </table>
 
 ---
+
+### [Smart Shopper](https://github.com/Veer376/smart_shopper) 🛒
+
+<table>
+<tr>
+<td width="50%">
+
+https://github.com/user-attachments/assets/b99cd640-a033-4581-806c-2aa376930708
+
+</td>
+<td width="50%">
+
+An intelligent **Django REST API** that provides near real-time product search using SerpAPI's Google Shopping results. Optimized with async HTTP calls, Redis caching for performance, and built-in analytics tracking to monitor query patterns and cache efficiency.
+
+**Tech Stack:** Django, SerpAPI, Redis, HTTPX, Python  
+**Highlights:** Async requests with retries, Redis caching with TTL, Normalized product parsing, RESTful API
+
+</td>
+</tr>
+</table>
+
+---
+
+### [Conversational Concierge](https://github.com/Veer376/conversational_concierge) 🍷
+
+<table>
+<tr>
+<td width="50%">
+
+https://github.com/user-attachments/assets/1560b4e8-636e-49ef-8196-6a7848d73cd5
+
+</td>
+<td width="50%">
+
+A lightweight **LangGraph conversational agent** built for a Napa Valley wine business with Streamlit UI. The agent answers questions from uploaded documents, performs web searches, and provides weather forecasts. Features modular tool architecture and real-time tool call visualization.
+
+**Tech Stack:** Python, LangGraph, Streamlit, LLM  
+**Highlights:** Document retrieval, Web search integration, Weather API, Modular tool system, Interactive UI
+
+</td>
+</tr>
+</table>
+
+---
 <!---
 Veer376/Veer376 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
