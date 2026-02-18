@@ -6,7 +6,8 @@ _Starting with a bold idea, I methodically untie knotty problems, translate them
 
 ## Featured Projects
 
-### <img src="assets/doot-icon.png" alt="Doot Agent" width="25" align="center"/> [Doot Agent](https://github.com/Veer376/doot-agent-lab)
+<details open>
+<summary><strong>🤖 <img src="assets/doot-icon.png" alt="Doot Agent" width="20" align="center"/> <a href="https://github.com/Veer376/doot-agent-lab">Doot Agent</a></strong></summary>
 
 <table>
 <tr>
@@ -27,9 +28,12 @@ A sophisticated **agentic orchestration platform** built with LangGraph for auto
 </tr>
 </table>
 
+</details>
+
 ---
 
-### ✏️ [Sketch AI](https://github.com/Veer376/Sketch-AI)
+<details>
+<summary><strong>✏️ <a href="https://github.com/Veer376/Sketch-AI">Sketch AI</a></strong></summary>
 
 <table>
 <tr>
@@ -48,9 +52,12 @@ An interactive canvas application combining drawing capabilities with **AI-power
 </tr>
 </table>
 
+</details>
+
 ---
 
-### [Virtual Patient Simulator](https://github.com/Veer376/virtual_patient)
+<details>
+<summary><strong>🏥 <a href="https://github.com/Veer376/virtual_patient">Virtual Patient Simulator</a></strong></summary>
 
 <table>
 <tr>
@@ -70,9 +77,12 @@ A medical training tool that simulates realistic patient responses using a **fin
 </tr>
 </table>
 
+</details>
+
 ---
 
-### 🛒 [Smart Shopper](https://github.com/Veer376/smart_shopper)
+<details>
+<summary><strong>🛒 <a href="https://github.com/Veer376/smart_shopper">Smart Shopper</a></strong></summary>
 
 <table>
 <tr>
@@ -92,9 +102,12 @@ An intelligent **Django REST API** that provides near real-time product search u
 </tr>
 </table>
 
+</details>
+
 ---
 
-### [Conversational Concierge](https://github.com/Veer376/conversational_concierge)
+<details>
+<summary><strong>🍷 <a href="https://github.com/Veer376/conversational_concierge">Conversational Concierge</a></strong></summary>
 
 <table>
 <tr>
@@ -113,6 +126,8 @@ A lightweight **LangGraph conversational agent** built for a Napa Valley wine bu
 </td>
 </tr>
 </table>
+
+</details>
 
 ---
 
