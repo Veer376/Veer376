@@ -1,9 +1,41 @@
-### 👋 Hi, I’m @Veer376
----
+<h2 style="display:flex; gap:12px; line-height:1;">
+  <span style="display:flex; gap:6px;">
+    👋 <span>Hi, I’m <strong>Aryaveer</strong></span>
+  </span>
+
+  <span style="opacity:0.6;">|</span>
+
+  <a href="https://www.linkedin.com/in/aryaveer-aiml"
+     style="display:flex; align-items:center; gap:6px; text-decoration:none; color:inherit;">
+    <img src="https://skillicons.dev/icons?i=linkedin"
+         alt="LinkedIn"
+         width="22" height="22" />
+    <span>LinkedIn</span>
+  </a>
+
+  <span style="opacity:0.6;">|</span>
+
+  <a href="https://leetcode.com/u/veer1214/"
+     style="display:flex; align-items:center; gap:6px; text-decoration:none; color:inherit;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg"
+         alt="LeetCode"
+         width="22" height="22"
+         style="filter: invert(58%) sepia(85%) saturate(2275%)
+                hue-rotate(360deg) brightness(101%) contrast(101%);" />
+    <span>LeetCode</span>
+  </a>
+</h2>
+
+<!-- Summary placeholder: replace the text below with your intro -->
+<p style="margin-top:8px; max-width:70ch; line-height:1.4;">
+  Starting with a bold idea, I methodically untie knotty problems, translate them into reliable backend architecture, and present the results through joyful, lightning-fast user experiences.
+</p>
+
+
 
 ## Featured Projects
 
-### <img src="assets/doot-icon.png" alt="Doot Agent" width="25" align="center"/>  [Doot Agent](https://github.com/Veer376/doot-agent-lab)
+### <img src="assets/doot-icon.png" alt="Doot Agent" width="25" align="center"/> [Doot Agent](https://github.com/Veer376/doot-agent-lab)
 
 <table>
 <tr>
@@ -18,7 +50,7 @@ https://github.com/user-attachments/assets/223173bf-3cfc-4686-afcc-3d7ae061ebbf
 
 A sophisticated **agentic orchestration platform** built with LangGraph for autonomous task execution. Features advanced AI agent architecture with checkpointing, interrupts, real-time streaming, memory management, and dynamic tool selection. Building specialized agents for browser automation, MCP integration, and multi-agent company workflows.
 
-**Stack:** Next.js, FastAPI, Python, LangGraph, AI Orchestration  
+**Stack:** Next.js, FastAPI, Python, Supabase, LangGraph, AI Orchestration, Docker microservice.
 
 </td>
 </tr>
@@ -26,7 +58,7 @@ A sophisticated **agentic orchestration platform** built with LangGraph for auto
 
 ---
 
-### ✏️ [Sketch AI](https://github.com/Veer376/Sketch-AI) 
+### ✏️ [Sketch AI](https://github.com/Veer376/Sketch-AI)
 
 <table>
 <tr>
@@ -39,7 +71,7 @@ A sophisticated **agentic orchestration platform** built with LangGraph for auto
 
 An interactive canvas application combining drawing capabilities with **AI-powered analysis** using Google's Gemini AI. Draw sketches, diagrams, or questions on the canvas and get instant AI responses and analysis. Perfect for brainstorming, learning, and creative exploration.
 
-**Tech Stack:** TypeScript, Next.js, Google Gemini AI  
+**Tech Stack:** TypeScript, Next.js, Google Gemini AI
 
 </td>
 </tr>
@@ -69,7 +101,7 @@ A medical training tool that simulates realistic patient responses using a **fin
 
 ---
 
-### 🛒 [Smart Shopper](https://github.com/Veer376/smart_shopper) 
+### 🛒 [Smart Shopper](https://github.com/Veer376/smart_shopper)
 
 <table>
 <tr>
@@ -112,6 +144,7 @@ A lightweight **LangGraph conversational agent** built for a Napa Valley wine bu
 </table>
 
 ---
+
 <!---
 Veer376/Veer376 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
