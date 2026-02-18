@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Aryaveer
+# 👋 Hi, I'm Aryaveer  ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=FullStack+Developer;AI+Enthusiast;)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryaveer-aiml) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/veer1214/)
+![Internship](https://img.shields.io/badge/Intern-Devstringx-blue) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryaveer-aiml) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/veer1214/) 
 
 _Starting with a bold idea, I methodically untie knotty problems, translate them into reliable backend architecture, and present the results through joyful, lightning-fast user experiences._
 
@@ -125,4 +125,5 @@ A lightweight **LangGraph conversational agent** built for a Napa Valley wine bu
 ## Skills
 React.js, Next.js, Node.js, FastAPI, Flask, Supabase, LangGraph, Gemini, Spring boot, MongoDB, Redis, PostgreSQL, Docker, AWS, Google Cloud, Microservices, Kafka, Git.
 
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,mongodb,docker,python,java,spring,fastapi,redis,postgresql,aws,gcp,kafka,git)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,mongodb,docker,python,java,spring,fastapi,redis,postgresql,aws,gcp,kafka,git&size=20)
+
